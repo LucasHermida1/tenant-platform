@@ -94,17 +94,3 @@ Instructor: instructor@tenant.com
 
 Alumno: alumno@tenant.com
  / 123456
-
-🧪 Estado del proyecto
-
-Este proyecto está en desarrollo activo y forma parte de un sistema real en evolución.
-
-Próximos pasos planeados:
-
-Permisos más granulares
-
-Módulos por tenant
-
-Eventos y academias
-
-Auditoría y logs
