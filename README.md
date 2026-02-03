@@ -78,7 +78,7 @@ npm install
 npm run build
 
 cp .env.example .env
-(chequear y matchear a las credenciales de tu base local, default -> User:Root sin password)
+Asegurate de que las credenciales de la base de datos en .env coincidan con tu entorno local (por defecto: MySQL root sin contraseña).
 
 php artisan app:install
 php artisan serve
