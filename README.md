@@ -78,19 +78,7 @@ npm install
 npm run build
 
 cp .env.example .env
-php artisan key:generate
+(chequear y matchear a las credenciales de tu base local, default -> User:Root sin password)
 
-php artisan migrate
-php artisan db:seed
-
-
-👤 Usuarios de ejemplo
-
-Admin: admin@tenant.com
- / 123456
-
-Instructor: instructor@tenant.com
- / 123456
-
-Alumno: alumno@tenant.com
- / 123456
+php artisan app:install
+php artisan serve
